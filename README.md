@@ -1,12 +1,14 @@
+# REACT BEGAINNER
+
 This is a introduction course with simple react structure,
-components, funtion syntax, simple JSX rules, value access
-through buttons (atributes, eventHandlers, onClick, onMouseOver)
+components, funtion, syntax, JSX rules, value access
+through button (attributes, eventHandlers, onClick, onMouseOver)
 
 The pictures are randomly copied from Amazon books, they can be
 changed anytime. If they do not work, just copy some new url links
 from internet.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
